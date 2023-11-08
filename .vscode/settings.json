@@ -2,5 +2,6 @@
   "cSpell.language": "en-GB,en",
   "cSpell.enableFiletypes": [
     "!asciidoc"
-  ]
+  ],
+  "liveServer.settings.port": 5501
 }
